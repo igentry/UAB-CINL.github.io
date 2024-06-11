@@ -1,6 +1,6 @@
 # Equipment and Facilities
 
-The Civitan International Neuroimaging Laboratory (CINL) is a 5,000 square foot facility located on the first floor of UAB Hospital-Highlands. The facility consists of the Siemens 3T MAGNETOM Prisma MRI suite, two private interview rooms dedicated to pre-/post-scan patient screening and testing, two MRI preparation rooms with lockers, and an equipment room. Space for your equipment can be reserved by contacting us at [CINL@uab.edu](mailto:cinl@uab.edu).
+The Civitan International Neuroimaging Laboratory (CINL) is a more than 5,000 square foot facility located on the first floor of UAB Hospital-Highlands. The facility consists of the Siemens 3T MAGNETOM Prisma MRI suite, a 3T GE Premier MRI suite, two private interview rooms dedicated to pre-/post-scan patient screening and testing, two MRI preparation rooms with lockers, and an equipment room. Space for your equipment can be reserved by contacting us at [CINL@uab.edu](mailto:cinl@uab.edu).
 
 !!! note
 
