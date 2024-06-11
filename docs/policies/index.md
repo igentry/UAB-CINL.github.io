@@ -63,7 +63,7 @@ When requesting a scan on the CINL Prisma Request calendar, include the Study ID
 
 ### CINL Setup Time
 
-Note the 15-minute buffer time after clinical use each weekday. This buffer is to provide a safeguard in case patients need additional time to wrap up their exams. Keep in mind that the scanner may not be available immediately when scheduling your scans over that buffer. Please reach out to us with any issues (CINL@uab.edu).
+Note the 15-minute buffer time after clinical use each weekday. This buffer is there to provide a safeguard in case patients need additional time to wrap up their exams. Keep in mind that the scanner may not be available immediately when scheduling your scans over that buffer. Please reach out to us with any issues (CINL@uab.edu).
 
 ### User Setup Time
 
