@@ -90,10 +90,6 @@ At least one MRI Safety trained member of your team will have to be present to i
 
 You must indicate on the Prisma Request Calendar if you need someone to scan for you and please refer to the Prisma Confirmed calendar when CINL staff is absent. If you wish, email Eleanor with your group's inquiry about availablity for your research scan at a particular date or time, but it is not required.
 
-which operator can be requested differs based on day and time of the scan. See the chart below for who can be requested for specific times.
-
-![!Coverage chart for scanner operators](images/coverage_chart1.png)
-
 ## Scan Cancellations
 
 All cancellations must be reported in two ways:
