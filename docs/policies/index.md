@@ -84,13 +84,12 @@ For studies requesting one hour or more of scan time, a 30-minute time slot can 
 
 ## Requesting a Scanner Operator
 
-If you need someone to run the scan for your study, you can request a MRI technologist or Operationally (Level 2) certified individual trained to run your scan. On the calendar request, include "Need Tech". After the MR tech Elizabeth has learned how to perform your scan, she should be able to assist with research scans scheduled between 11:30AM - and completed by 8:00PM on weekdays.
+If you need someone to run the scan for your study, you can request a MRI technologist or Operationally (Level 2) certified individual trained to run your scan. On the calendar request, include "Need Tech". After the CINL personnel has learned how to perform your scan, they should be able to assist with research scans scheduled between XX and XX on weekdays, when "Tech Unavailable" is NOT indicated on the calendar. 
 
-At least one MRI Safety trained member of your team will have to be present to instruct the MRI operator on your study's scanning protocol and if there are any particular nuances regarding how you like your scans to be acquired. We have weekend coverage from 9AM to 5PM most Saturdays and Sundays. Dr. Ryan Willoughby usually provides weekend coverage, but he must be familiar with your protocol before requesting him to scan. He is also not a registered MRI technologist so any studies that require a tech specifically will need to done during Elizabeth's hours.
+At least one MRI Safety trained member of your team will have to be present to instruct the MRI operator on your study's scanning protocol and if there are any particular nuances regarding how you like your scans to be acquired. 
 
-You must indicate on the Prisma Request Calendar if you need someone to scan for you and please refer to the Prisma Confirmed calendar when CINL staff is absent. If you wish, email Eleanor with your group's inquiry about availablity for your research scan at a particular date or time, but it is not required.
+You must indicate on the Prisma Request Calendar if you need someone to scan for you and please refer to the Prisma Confirmed calendar when CINL staff is absent. If you wish, email cinl@uab.edu with your group's inquiry about availablity for your research scan at a particular date or time, but it is not required.
 
-which operator can be requested differs based on day and time of the scan. See the chart below for who can be requested for specific times.
 
 ![!Coverage chart for scanner operators](images/coverage_chart1.png)
 
