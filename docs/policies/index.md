@@ -91,8 +91,6 @@ At least one MRI Safety trained member of your team will have to be present to i
 You must indicate on the Prisma Request Calendar if you need someone to scan for you and please refer to the Prisma Confirmed calendar when CINL staff is absent. If you wish, email cinl@uab.edu with your group's inquiry about availablity for your research scan at a particular date or time, but it is not required.
 
 
-![!Coverage chart for scanner operators](images/coverage_chart1.png)
-
 ## Scan Cancellations
 
 All cancellations must be reported in two ways:
