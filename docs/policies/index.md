@@ -12,7 +12,7 @@ All CINL users must complete MRI Safety Training.
 
 In order to operate the scanner, two people who have been trained on MRI safety and at least one person who has been operationally trained must be present. Operationally trained individuals can include researchers who have undergone the relevant training or MRI technologists who can be requested to run the scanner during your session.
 
-To be present during an MRI scan, you must read over the following documents regarding MRI safety and then schedule a time to undergo training with Elizabeth Ingram (ekingram@uabmc.edu) through email.
+To be present during an MRI scan, you must read over the following documents regarding MRI safety and then schedule a time to undergo training with Dr.Ryan Willoughby [CINL@uab.edu](mailto:cinl@uab.edu) through email.
 
 **Safety Training Documents**:
 
@@ -20,11 +20,11 @@ To be present during an MRI scan, you must read over the following documents reg
 - [Safety Training Policies and Procedures](https://uab365.sharepoint.com/:b:/r/sites/som/circ/cinl/Shared%20Documents/Training/L2%20Safety%20Training.pdf?csf=1&web=1&e=GcfDmX)
 - [Safety Test](https://uab365.sharepoint.com/:b:/r/sites/som/circ/cinl/Shared%20Documents/Training/L2%20Safety%20Test.pdf?csf=1&web=1&e=6vTyPl)
 
-MRI Safety trained users may seek Operational Certification (O.C.) by first contacting CINL staff, then either working with CINL staff or an O.C. user to train prior to certification. Anyone seeking Operational Certification (O.C.) must email [CINL@uab.edu](mailto:cinl@uab.edu) prior to training. Failure to report scanner operations training to CINL Leadership is a safety concern and may lead to disciplinary actions including, but not limited to, voiding O.C. status for the research group involved. After OC training, please contact Elizabeth at [ekingram@uabmc.edu](mailto:ekingram@uabmc.edu) to schedule on-site certification.
+MRI Safety trained users may seek Operational Certification (O.C.) by first contacting CINL staff, then either working with CINL staff or an O.C. user to train prior to certification. Anyone seeking Operational Certification (O.C.) must email [CINL@uab.edu](mailto:cinl@uab.edu) prior to training. Failure to report scanner operations training to CINL Leadership is a safety concern and may lead to disciplinary actions including, but not limited to, voiding O.C. status for the research group involved. After OC training, please contact Dr.Ryan Willoughby at [CINL@uab.edu](mailto:cinl@uab.edu) to schedule on-site certification.
 
 ## Participant Screening
 
-Before beginning a scan, a participant must be taken through the [MRI Patient Screening Form](https://uab365.sharepoint.com/:b:/r/sites/som/circ/cinl/Shared%20Documents/Training/MRI%20Screening%20Form.pdf?csf=1&web=1&e=tfbB4T). This screening form is mandatory each time a participant comes in for a scan regardless of whether they have filled out the form previously. Any risk factors discovered during the screening process will need to be reported and approved before scanning. For any questions about risk factors during screening, please contact Elizabeth Ingram at [ekingram@uabmc.edu](mailto:ekingram@uabmc.edu).
+Before beginning a scan, a participant must be taken through the [MRI Patient Screening Form](https://uab365.sharepoint.com/:b:/r/sites/som/circ/cinl/Shared%20Documents/Training/MRI%20Screening%20Form.pdf?csf=1&web=1&e=tfbB4T). This screening form is mandatory each time a participant comes in for a scan regardless of whether they have filled out the form previously. Any risk factors discovered during the screening process will need to be reported and approved before scanning. For any questions about risk factors during screening, please contact Dr.Ryan Willoughby at (mailto:wwilloughby@uabmc.edu).
 
 ### Prescreening
 
@@ -32,13 +32,13 @@ When performing MRI studies, participant exclusion criteria related to MRI safet
 
 ### Implant Policies
 
-If a participant has an implant, please reach out to Elizabeth Ingram (ekingram@uabmc.edu) and upload documentation for the implant to Sharefile for her to review. Please read the [Implant Guide](https://uab365.sharepoint.com/:b:/r/sites/som/circ/cinl/Shared%20Documents/Implant%20Review/Sharefile%20Instructions.pdf?csf=1&web=1&e=zo0AzU) and reach out to Elizabeth with any questions.
+If a participant has an implant, please reach out to Dr. Ryan Willoughby [CINL@uab.edu](mailto:cinl@uab.edu) and upload documentation for the implant to Sharefile for her to review. Please read the [Implant Guide](https://uab365.sharepoint.com/:b:/r/sites/som/circ/cinl/Shared%20Documents/Implant%20Review/Sharefile%20Instructions.pdf?csf=1&web=1&e=zo0AzU) and reach out to Ryan with any questions.
 
 Keep in mind that certain implants may need more time or require additional research than others. You can always ask general questions through email (no PHI!), however, you may be prompted to use ShareFile for in-depth exchange of implant specifics and documentation.
 
 ## MRI Key Card Access
 
-Facility access is granted to users who have completed MRI Safety Training. To obtain key card access to the Prisma MRI scanner area, message Ingia Gentry at [CINL@uab.edu](mailto:cinl@uab.edu). Please provide the string of numbers at the bottom of the back side of the UAB ID badge (the string usually starts with a "4*" and ends with a "-E”).
+Facility access is allowed to users who have completed MRI Safety Training.  To obtain key card access to the Prisma MRI scanner area, message Ingia Gentry at [CINL@uab.edu](mailto:cinl@uab.edu).   Please provide your Blazer ID, Name of Lab, and date you received MR Safety Training.
 
 ## Scheduling
 
@@ -97,6 +97,11 @@ All cancellations must be reported in two ways:
 
 1. Use the CINL Request calendar to request a cancellation over the confirmed scan time you would like cancelled. Indicate your intent to cancel on the CINL Prisma Request calendar alongside the confirmed time (for example: “Cancel P18XXX (PI last name) scan")
 2. Send a cancellation notice to the CINL Listserv. Email CINL-NOTICE@LISTSERV.UAB.EDU to indicate that the time slot on the scanner will be available. This list can also be used to let everyone know if an important piece of equipment goes down. Please do not use the list for anything else.
+
+!!! note
+
+   Studies will be billed when the research group does not follow steps 1 and 2 or when cancellation occurs after the time it was scheduled to end on the Prisma Request calendar.
+<!-- markdownlint-enable MD046 -->
 
 ### Subscribing to CINL-NOTICE Listserv
 
